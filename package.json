@@ -1,0 +1,28 @@
+{
+  "name": "chrb",
+  "version": "0.1.0",
+  "description": "A command line utility activate a Ruby engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "chrb": "bin/chrb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubinius/chrb.git"
+  },
+  "keywords": [
+    "ruby",
+    "switch",
+    "activate",
+    "enable"
+  ],
+  "author": "Brian Shirai",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rubinius/chrb/issues"
+  },
+  "homepage": "https://github.com/rubinius/chrb#README.md"
+}
